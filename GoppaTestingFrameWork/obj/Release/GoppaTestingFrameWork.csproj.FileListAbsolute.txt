@@ -1,0 +1,9 @@
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Release\GoppaTestingFrameWork.exe.config
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Release\GoppaTestingFrameWork.exe
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Release\GoppaTestingFrameWork.pdb
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Release\nunit.framework.dll
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Release\WebDriver.dll
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Release\nunit.framework.xml
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Release\WebDriver.xml
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\obj\Release\GoppaTestingFrameWork.exe
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\obj\Release\GoppaTestingFrameWork.pdb

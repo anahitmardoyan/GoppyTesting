@@ -1,0 +1,10 @@
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Debug\GoppaTestingFrameWork.exe.config
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Debug\GoppaTestingFrameWork.exe
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Debug\GoppaTestingFrameWork.pdb
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Debug\nunit.framework.dll
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Debug\WebDriver.dll
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Debug\nunit.framework.xml
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\bin\Debug\WebDriver.xml
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\obj\Debug\GoppaTestingFrameWork.csprojResolveAssemblyReference.cache
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\obj\Debug\GoppaTestingFrameWork.exe
+c:\users\anahit\documents\visual studio 2017\Projects\GoppaTestingFrameWork\GoppaTestingFrameWork\obj\Debug\GoppaTestingFrameWork.pdb
